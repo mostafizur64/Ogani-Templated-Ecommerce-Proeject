@@ -1,0 +1,113 @@
+                                                             
+                                                             
+                                       ======================Mostafizur Rahman====================
+                                                       
+                                                   =====LARAVEL ECOMMERCE PROJECT=====
+                                                       
+                                                       1.Laravel project install.
+                                                       2.laravel Mulitple Authentication 
+						       3.Admin Templete Setup
+                                                       4.Admin login page setup
+                                                       5.Fontend temple setup
+						       6.Category page setup || and store category
+                                                       7.category show edit update delete
+                                                       8.Brand page create|| add show edit update   
+                                                       9.add product page design
+                                                      10.insert product
+                                                      11.Manage Product
+                                                      12.Edit and Update product
+                                                      13.then multiple image update
+                                                      14.Product active and delete (thats means total crud operation)
+                                                      15.Cupon total Crud operation 
+                                                      16.Fontend product show part-1
+                                                      17.Fontend Prodcut show part-2
+                                                      18.Product added on cart tabel 
+                                                      19.show success message and cart header calculation
+                                                      20.cart page design             
+                                                      21.Cart Quantity update and remove product
+                                                      22.cupon apply calculate discount subtotal
+                                                      23.setup login & register page
+                                                      24.Product wishlist page setup
+                                                      25.product added on wishlist 12:42 PM 2/11/202
+                                                      26.product details page setup
+                                                      27.related product show
+                                                      28.CheckOut page setup
+                                                      29.order process|Database design
+                                                      30.order process|order Complete
+                                                      31.Admin panel|order view
+                                                      32.User Page Setup $ Read All Product
+                                                      33.User Profile View Order Details
+                                                      34.Shop Page Setup
+                                                      35.Category Wise Product Show -------End Series...
+                                                      36
+                                                      37
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+           
+
+
+
+
+
+
+
+
+
+
+
+
+                                                              
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                         
